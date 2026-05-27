@@ -4,7 +4,7 @@ A Django REST + React prototype for ingesting, normalizing, and analyst-reviewin
 
 ## Live Demo
 
-- **App**: https://breathe-esg.onrender.com
+- **App**: https://breathe-omgpkm2b4-rakshas-projects-7c87634c.vercel.app/
 
 Demo credentials (all passwords: `breathe2024`):
 | Username | Role |
