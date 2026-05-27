@@ -1,0 +1,38 @@
+Booking Type,Travel Date,Employee ID,Department,Cost Center,Booking Reference,Vendor,Origin,Destination,Distance KM,Cabin Class,Round Trip,Passengers,Check In,Check Out,Nights,City,Country,Amount,Currency
+Flight,2024-04-03,EMP-1042,Engineering,CC-ENG-01,PNR-4X9K2,IndiGo,BLR,DEL,,Economy,Yes,1,,,,,138500,INR
+Flight,2024-04-05,EMP-2891,Sales,CC-SALES-01,PNR-7M3P1,Air India,BOM,LHR,,Business,Yes,1,,,,,485200,INR
+Hotel,2024-04-05,EMP-2891,Sales,CC-SALES-01,HTL-8892K,Marriott,,,,,,,,2024-04-05,2024-04-08,3,London,GB,42800,INR
+Flight,2024-04-08,EMP-2891,Sales,CC-SALES-01,PNR-7M3P1,Air India,LHR,BOM,,Business,No,1,,,,,243100,INR
+Flight,2024-04-10,EMP-3312,HR,CC-HR-01,PNR-2W8L4,IndiGo,BLR,HYD,,Economy,Yes,1,,,,,12400,INR
+Taxi,2024-04-10,EMP-3312,HR,CC-HR-01,UBER-88821,Uber,,,18,,,,,,,,1240,INR
+Flight,2024-04-12,EMP-1042,Engineering,CC-ENG-01,PNR-9K4R7,Vistara,DEL,SFO,,Economy,Yes,1,,,,,124500,INR
+Hotel,2024-04-12,EMP-1042,Engineering,CC-ENG-01,HTL-4421P,Hyatt,,,,,,,,2024-04-12,2024-04-15,3,San Francisco,US,38200,INR
+Flight,2024-04-15,EMP-1042,Engineering,CC-ENG-01,PNR-9K4R7,Vistara,SFO,DEL,,Economy,No,1,,,,,63200,INR
+Train,2024-04-18,EMP-5521,Operations,CC-OPS-01,TKT-12248,Indian Railways,BLR,BOM,1144,Economy,No,1,,,,,2800,INR
+Flight,2024-04-22,EMP-7734,Finance,CC-FIN-01,PNR-3B5X9,Air India,BLR,DXB,,Business,Yes,1,,,,,198400,INR
+Hotel,2024-04-22,EMP-7734,Finance,CC-FIN-01,HTL-9934L,Taj Dubai,,,,,,,,2024-04-22,2024-04-24,2,Dubai,AE,38800,INR
+Taxi,2024-04-23,EMP-7734,Finance,CC-FIN-01,UBER-22341,Uber,,,25,,,,,,,,3200,AED
+Flight,2024-04-29,EMP-8821,Marketing,CC-MKT-01,PNR-6F2Q8,IndiGo,DEL,BLR,,Economy,No,1,,,,,8900,INR
+Flight,2024-05-02,EMP-1042,Engineering,CC-ENG-01,PNR-5H7T3,United,DEL,ORD,,Economy,Yes,1,,,,,118200,INR
+Hotel,2024-05-02,EMP-1042,Engineering,CC-ENG-01,HTL-7721K,Hilton,,,,,,,,2024-05-02,2024-05-06,4,Chicago,US,52400,INR
+Flight,2024-05-08,EMP-2345,Sales,CC-SALES-01,PNR-1L9M2,Emirates,BOM,DOH,,Economy,Yes,1,,,,,48200,INR
+Flight,2024-05-10,EMP-3312,HR,CC-HR-01,PNR-4P8W1,IndiGo,BLR,MAA,,Economy,Yes,1,,,,,9800,INR
+Rental Car,2024-05-10,EMP-3312,HR,CC-HR-01,CAR-88821,Avis,,,120,,,,,,,,8900,INR
+Hotel,2024-05-10,EMP-3312,HR,CC-HR-01,HTL-2213P,ITC Hotels,,,,,,,,2024-05-10,2024-05-11,1,Chennai,IN,12400,INR
+Flight,2024-05-15,EMP-4421,Engineering,CC-ENG-02,PNR-8M3K9,Air India,BLR,FRA,,Economy,Yes,1,,,,,162800,INR
+Hotel,2024-05-15,EMP-4421,Engineering,CC-ENG-02,HTL-3341K,Hilton,,,,,,,,2024-05-15,2024-05-18,3,Frankfurt,DE,41200,INR
+Taxi,2024-05-18,EMP-4421,Engineering,CC-ENG-02,UBER-55821,Uber,,,32,,,,,,,,3800,EUR
+Flight,2024-05-20,EMP-6612,Sales,CC-SALES-02,PNR-7Y4R1,Vistara,DEL,BLR,,Economy,No,1,,,,,7800,INR
+Flight,2024-05-25,EMP-9901,CEO,CC-EXEC-01,PNR-2K8P4,Air India,BOM,NRT,,First,Yes,1,,,,,892400,INR
+Hotel,2024-05-25,EMP-9901,CEO,CC-EXEC-01,HTL-9921P,Park Hyatt,,,,,,,,2024-05-25,2024-05-28,3,Tokyo,JP,185000,INR
+Flight,2024-06-03,EMP-1234,Engineering,CC-ENG-01,PNR-3W9L2,IndiGo,BLR,DEL,,Economy,Yes,1,,,,,14800,INR
+Flight,2024-06-05,EMP-2891,Sales,CC-SALES-01,PNR-8B4X7,Air India,BOM,CDG,,Business,Yes,1,,,,,512400,INR
+Hotel,2024-06-05,EMP-2891,Sales,CC-SALES-01,HTL-7712K,Le Meridien,,,,,,,,2024-06-05,2024-06-07,2,Paris,FR,68400,INR
+Flight,2024-06-10,EMP-5521,Operations,CC-OPS-01,PNR-6T2M8,IndiGo,BLR,HYD,,Economy,No,1,,,,,6200,INR
+Taxi,2024-06-15,EMP-7734,Finance,CC-FIN-01,UBER-99821,Uber,,,15,,,,,,,,1800,INR
+Flight,2024-06-18,EMP-3812,HR,CC-HR-01,PNR-9L3P5,Vistara,BLR,DEL,,Economy,Yes,1,,,,,16200,INR
+Hotel,2024-06-18,EMP-3812,HR,CC-HR-01,HTL-8812L,Taj Vivanta,,,,,,,,2024-06-18,2024-06-19,1,New Delhi,IN,14800,INR
+Flight,2024-06-22,EMP-1042,Engineering,CC-ENG-01,PNR-4X7K1,Singapore Airlines,BLR,SIN,,Business,Yes,1,,,,,248900,INR
+Hotel,2024-06-22,EMP-1042,Engineering,CC-ENG-01,HTL-6621P,Marina Bay Sands,,,,,,,,2024-06-22,2024-06-25,3,Singapore,SG,78500,INR
+Train,2024-06-25,EMP-8821,Marketing,CC-MKT-01,TKT-44821,Indian Railways,DEL,JAI,308,Economy,Yes,1,,,,,1200,INR
+Taxi,2024-06-28,EMP-9901,CEO,CC-EXEC-01,UBER-11821,Uber,,,45,,,,,,,,5400,INR

@@ -1,0 +1,19 @@
+Account Number,Meter ID,Site Name,Site Address,Tariff Category,Bill From,Bill To,Opening Reading,Closing Reading,Multiplier,Units Consumed,Peak Units,Off Peak Units,Reactive Units (kVARh),Bill Amount,Currency,Grid Region
+7201-45892-001,MTR-BLR-001,ACME Factory - Whitefield,Plot 14 EPIP Zone Whitefield Bangalore 560066,HT Industrial (11kV),18/03/2024,19/04/2024,28450.20,29812.40,10,13621.00,8172.60,5448.40,1820.30,1245680.00,INR,southern
+7201-45892-001,MTR-BLR-001,ACME Factory - Whitefield,Plot 14 EPIP Zone Whitefield Bangalore 560066,HT Industrial (11kV),20/04/2024,19/05/2024,29812.40,31189.65,10,13772.50,8263.50,5509.00,1841.20,1258340.00,INR,southern
+7201-45892-001,MTR-BLR-001,ACME Factory - Whitefield,Plot 14 EPIP Zone Whitefield Bangalore 560066,HT Industrial (11kV),20/05/2024,19/06/2024,31189.65,32598.80,10,14091.50,8454.90,5636.60,1882.50,1287520.00,INR,southern
+7201-45892-002,MTR-BLR-002,ACME Admin Block - Whitefield,Plot 14 EPIP Zone Whitefield Bangalore 560066,LT Commercial,18/03/2024,17/04/2024,12840.50,13298.70,1,458.20,,,,42180.00,INR,southern
+7201-45892-002,MTR-BLR-002,ACME Admin Block - Whitefield,Plot 14 EPIP Zone Whitefield Bangalore 560066,LT Commercial,18/04/2024,17/05/2024,13298.70,13812.40,1,513.70,,,,47290.00,INR,southern
+7201-45892-002,MTR-BLR-002,ACME Admin Block - Whitefield,Plot 14 EPIP Zone Whitefield Bangalore 560066,LT Commercial,18/05/2024,17/06/2024,13812.40,14289.90,1,477.50,,,,43970.00,INR,southern
+7201-45892-003,MTR-BLR-003,ACME Warehouse - Peenya,Plot 82 Peenya Industrial Area Bangalore 560058,LT Industrial,18/03/2024,17/04/2024,5420.30,5918.60,1,498.30,,,,48920.00,INR,southern
+7201-45892-003,MTR-BLR-003,ACME Warehouse - Peenya,Plot 82 Peenya Industrial Area Bangalore 560058,LT Industrial,18/04/2024,17/05/2024,5918.60,6445.20,1,526.60,,,,51690.00,INR,southern
+7201-45892-003,MTR-BLR-003,ACME Warehouse - Peenya,Plot 82 Peenya Industrial Area Bangalore 560058,LT Industrial,18/05/2024,17/06/2024,6445.20,6948.10,1,502.90,,,,49360.00,INR,southern
+8801-22341-001,MTR-MUM-001,ACME Plant - Thane,MIDC Industrial Area Phase II Thane 400604,HT Industrial (33kV),01/04/2024,30/04/2024,88920.40,90342.80,20,28448.00,17068.80,11379.20,3802.50,2680120.00,INR,western
+8801-22341-001,MTR-MUM-001,ACME Plant - Thane,MIDC Industrial Area Phase II Thane 400604,HT Industrial (33kV),01/05/2024,31/05/2024,90342.80,91798.60,20,29116.00,17469.60,11646.40,3893.20,2741840.00,INR,western
+8801-22341-001,MTR-MUM-001,ACME Plant - Thane,MIDC Industrial Area Phase II Thane 400604,HT Industrial (33kV),01/06/2024,30/06/2024,91798.60,93189.20,20,27812.00,16687.20,11124.80,3718.40,2620080.00,INR,western
+8801-22341-002,MTR-MUM-002,ACME R&D Centre - Thane,MIDC Industrial Area Phase II Thane 400604,LT Commercial,01/04/2024,30/04/2024,2184.60,2642.30,1,457.70,,,,42140.00,INR,western
+8801-22341-002,MTR-MUM-002,ACME R&D Centre - Thane,MIDC Industrial Area Phase II Thane 400604,LT Commercial,01/05/2024,31/05/2024,2642.30,3124.80,1,482.50,,,,44420.00,INR,western
+8801-22341-002,MTR-MUM-002,ACME R&D Centre - Thane,MIDC Industrial Area Phase II Thane 400604,LT Commercial,01/06/2024,30/06/2024,3124.80,3579.40,1,454.60,,,,41860.00,INR,western
+9901-88234-001,MTR-DEL-001,ACME Delhi Office,Sector 63 Noida Uttar Pradesh 201301,LT Commercial,18/03/2024,19/04/2024,8920.40,9498.20,1,577.80,,,,53190.00,INR,northern
+9901-88234-001,MTR-DEL-001,ACME Delhi Office,Sector 63 Noida Uttar Pradesh 201301,LT Commercial,20/04/2024,19/05/2024,9498.20,10098.40,1,600.20,,,,55260.00,INR,northern
+9901-88234-001,MTR-DEL-001,ACME Delhi Office,Sector 63 Noida Uttar Pradesh 201301,LT Commercial,20/05/2024,19/06/2024,10098.40,10689.80,1,591.40,,,,54470.00,INR,northern
